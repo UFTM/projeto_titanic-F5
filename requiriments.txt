@@ -1,0 +1,8 @@
+#
+# Para utilizar o ambiente basta exexutar
+#
+#    pip install -r requirements.txt
+#
+
+Django==2.0
+Flask==1.0.2
