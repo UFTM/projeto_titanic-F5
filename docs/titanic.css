@@ -1,5 +1,4 @@
 body{
-  background-color: lightblue;
 }
 
 img {
@@ -20,11 +19,10 @@ table {
 }
 
 th{
-    background-color: lightgreen;
+    background-color: lightgray;
 }
 
 td {
-    background-color: lightgray;
 
 }
 
